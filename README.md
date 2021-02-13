@@ -30,4 +30,5 @@ If I were to advise NorthOne on a new service to offer it would have to be crypt
 3. 	Gaubys, J. (n.d.). Number of small businesses in the us [Aug 2020]. Retrieved February 11, 2021, from https://www.oberlo.ca/statistics/number-of-small-business-in-the-us#:~:text=The%20strengthening%20United%20States%20economy,(99.9%20percent)%20US%20businesses
 4. 	Analysis. (2020, March 4). What Are Neo-Banks and How Will They Shape the Future of Finance? Retrieved from https://www.finsmes.com/2020/03/what-are-neo-banks-and-how-will-they-shape-the-future-of-finance.html
 5.	Azevedo, M. (2020, March 11). NY-Based NorthOne, a Digital challenger bank for small Businesses, Raises $21M Series A. Retrieved February 11, 2021, from https://news.crunchbase.com/news/ny-based-northone-a-challenger-bank-for-small-businesses-raises-21m-series-a/#:~:text=Growth,ago%20to%20nearly%2040%20today)
+6. NorthOne.com
 
