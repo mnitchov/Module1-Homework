@@ -20,15 +20,21 @@ NorthOne has seen remarkable growth numbers since its launch in August 2019 with
 
 ## Recommendations
 
-If I were to advise NorthOne on a new service to offer it would have to be crypto custody. With digital assets becoming a norm for investors to hold, digital banks will have to be able to offer some form of cryptocurrency related service, whether is be an exchange or a wallet. As an early entrant into this new market, NorthOne could be a popular choice for Canadian consumers looking for a banking institution that can a crypto wallet. With companies such as WealthSimple offering a digital asset platform, Canadian investors will slowly start to migrate over to this new asset class looking for higher returns compared to the stock market. By diversifying itself from traditional banks who have online platforms (ie. BMO, TD, Scotiabank, etc), NorthOne would open up doors allowing its users to store their cryptos off exchanges. Given NO already uses APIs in conducting its services, this makes it easier for NO to creating partnerships with exchanges as well as allowing developers to build interfaces that could allow them to hold several different cryptos. This would be the most promising opportunity in separating itself from other neobanks in the industry. 
+If I were to advise NorthOne on a new service to offer it would have to be crypto custody. With digital assets becoming a norm for investors to hold, digital banks will have to be able to offer some form of cryptocurrency related service, whether it be an exchange or a wallet. As an early entrant into this new market, NorthOne could be a popular choice for Canadian consumers looking for a banking institution that can host a crypto wallet. With companies such as WealthSimple offering a digital asset platform, Canadian investors will slowly start to migrate over to this new asset class looking for higher returns compared to the stock market. By diversifying itself from traditional banks who have online platforms (ie. BMO, TD, Scotiabank, etc), NorthOne would open up doors allowing its users to store their cryptos off exchanges. Given NO already uses APIs in conducting its services, this makes it easier for NO to creating partnerships with exchanges as well as allowing developers to build interfaces that could allow them to hold several different cryptos. This would be the most promising opportunity in separating itself from other neobanks in the industry. 
 
 
 ## Works Cited
+
+Main source of information was found on NorthOne.com
+
+NorthOne. (n.d.). Retrieved February 8th, 2021 from https://www.northone.com/
+
+Secondary sources include:
 
 1. 	PYMNTS.com. (2019, August 27). NorthOne taps radius bank for smb mobile banking. Retrieved February 11, 2021, from https://www.pymnts.com/news/b2b-payments/2019/northone-radius-bank-smb-mobile-banking/
 2. 	Kirkwood, I., Kirkwood, I., & Isabelle Kirkwood Writer. (2020, March 16). Challenger bank NorthOne raises $29.3 million Cad Series A. Retrieved February 11, 2021, from https://betakit.com/challenger-bank-northone-raises-29-3-million-cad-series-a/
 3. 	Gaubys, J. (n.d.). Number of small businesses in the us [Aug 2020]. Retrieved February 11, 2021, from https://www.oberlo.ca/statistics/number-of-small-business-in-the-us#:~:text=The%20strengthening%20United%20States%20economy,(99.9%20percent)%20US%20businesses
 4. 	Analysis. (2020, March 4). What Are Neo-Banks and How Will They Shape the Future of Finance? Retrieved from https://www.finsmes.com/2020/03/what-are-neo-banks-and-how-will-they-shape-the-future-of-finance.html
 5.	Azevedo, M. (2020, March 11). NY-Based NorthOne, a Digital challenger bank for small Businesses, Raises $21M Series A. Retrieved February 11, 2021, from https://news.crunchbase.com/news/ny-based-northone-a-challenger-bank-for-small-businesses-raises-21m-series-a/#:~:text=Growth,ago%20to%20nearly%2040%20today)
-6. NorthOne.com
+
 
